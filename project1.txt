@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1><b>The City of Miami</b></h1>
+<h2><i>Website Developed by Tariq Elshaer</i></h2>
+
+<a href="http://tinypic.com?ref=2j1oln6" target="_blank"><img src="http://i57.tinypic.com/2j1oln6.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+<p>
+I love the City of Miami. Miami is full of life and color. I usually visit Miami every summer to see my friends. The City of Miami would have to be one of the greatest cities in the U.S. 
+
+Miami has a huge list of things to do there. You can visit the beach during the day and enjoy the night life after hours.
+</p>
+
+<p>
+Miami is the home to millions of people, over 5 million to be exact. But, not only is it the home to 5 million people, but to many other famous people. 
+
+There are a lot of huge stars that live in Miami. Some which include the following:
+
+<ul>
+<li><b>Rick Ross</b></li>
+<li><b>Flo Rida</b></li>
+<li><b>Sean Kingston</b></li>
+<li><b>Ace Hood</b></li>
+</ul>
+</p>
+
+<p>
+South Beach in Miami is known to be one of the livest places in the nation. With countless night clubs, there is never nothing to do there. South Beach is also a great place to go to with your family to visit the beach. You can swim with dolphins or ride ATV's in the sand. 
+
+Overall, Miami would have to be my favorite place in the world.
+</p>
+
+<a href="http://tinypic.com?ref=96kfbq" target="_blank"><img src="http://i62.tinypic.com/96kfbq.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+<p>
+Here are some interesting links to check out about Miami:
+
+<a href="http://www.miamiandbeaches.com/" target="_blank">Link 1</a>
+
+<a href="http://www.miami.com/" target="_blank">Link 2</a>
+</p>
+
+</body>
+</html>
